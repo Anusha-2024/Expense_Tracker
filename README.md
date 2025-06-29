@@ -42,27 +42,27 @@
 
 ## 🚀 Getting Started
 
-📦 Setup & Installation
+📦 Setup & Installation-
 
-Clone the repository
+Clone the repository-
 
 ```bash
 git clone <repository-url>
 ```
 
-Navigate to the project directory
+Navigate to the project directory-
 
 ```bash
 cd ExpenseTracker
 ```
 
-Install dependencies
+Install dependencies-
 
 ```bash
 npm install
 ```
 
-Run the development server
+Run the development server-
 
 ```bash
 npm run dev
