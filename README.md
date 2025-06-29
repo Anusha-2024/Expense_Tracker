@@ -1,6 +1,5 @@
 # 💰 Expense Tracker
 
-## 🧾 Overview  
 *Expense Tracker* is a thoughtfully crafted, responsive web application built to simplify personal finance management. Whether you're budgeting for groceries or tracking monthly savings, this app empowers you to stay in control of your money. With an intuitive interface, it lets you seamlessly log income and expenses, organize your spending through custom budgets, visualize data via interactive charts, and monitor your financial health day by day. Smart notifications keep you informed when you're approaching budget limits or running low on funds, while features like calendar integration, export options, and dark mode enhance both functionality and user comfort. It's finance tracking made effortless, elegant, and engaging.
 
 ---
@@ -43,7 +42,7 @@
 
 ## 🚀 Getting Started
 
-# 📦 Setup & Installation
+📦 Setup & Installation
 
 Clone the repository
 
@@ -73,6 +72,23 @@ Open in browser-
 
 Visit http://localhost:3000
 
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 
+
+---
+
+## 📩 Contact
+
+Created by **Anusha**  
+📧 Gmail: **krianusha09@gmail.com**  
+
+---
+
+## License
+This project is licensed under the MIT License
 
 
 
