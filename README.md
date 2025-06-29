@@ -28,6 +28,18 @@
 
 ---
 
+## Screenshots
+
+Getting Started-
+![demo](https://github.com/Anusha-2024/Expense_Tracker/blob/main/ExpenseTracker.gif?raw=true)
+Dashboard-
+![dashboard](https://github.com/Anusha-2024/Expense_Tracker/blob/main/dashboard.png?raw=true)
+Managing Budget-
+![budget](https://github.com/Anusha-2024/Expense_Tracker/blob/main/budget.png?raw=true)
+
+
+---
+
 ## 🛠️ Technologies Used
 -  **React + TypeScript** – Core frontend framework
 -  **React Router** – Seamless navigation
