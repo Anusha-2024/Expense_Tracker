@@ -1,73 +1,120 @@
-# Expense Tracker
+# 💰 Expense Tracker
 
-## Overview
+A full-stack, responsive web application to help you manage your personal finances. Whether you're budgeting for groceries or tracking monthly savings, this app empowers you to stay in control of your money.
+
+---
+
+## 🧾 Overview
+
 Expense Tracker is a web application designed to help users manage their personal finances by tracking income, expenses, budgets, and transactions. It provides a clean and intuitive interface with features such as budget management, transaction history, calendar view, and profile settings. The app supports dark mode and includes notifications for budget limits and low balances.
 
-## Features
-- User authentication (signup, login, password reset)
-- Dashboard with financial overview, charts, and recent transactions
-- Add, edit, and delete transactions (income and expenses)
-- Budget management with category-wise budgets and spending tracking
-- Calendar view to see transactions by date
-- Export data functionality
-- Profile management with theme (dark/light mode) toggle
-- Notifications for budgets nearing limits and low balances
-- Responsive design for desktop and mobile devices
-- Subtle animations for enhanced user experience
+---
 
-## Technologies Used
+## ✨ Features
+
+🔐 **User Authentication** – Sign up, log in, and reset password securely  
+📊 **Dashboard** – Financial summary with charts and latest transactions  
+➕ **Transactions** – Add, edit, and delete income or expense records  
+🗂️ **Budgets** – Create and monitor category-wise spending  
+📅 **Calendar View** – See all transactions on a date-wise basis  
+📤 **Export Data** – Easily export transaction history  
+👤 **Profile Management** – Update details and toggle dark/light themes  
+🔔 **Notifications** – Alerts for low balances and budget limits  
+📱 **Responsive Design** – Mobile-friendly interface  
+🎞️ **Subtle Animations** – Smooth UI interactions with Framer Motion  
+
+---
+
+## 📸 Screenshots
+
+**Getting Started**
+
+![demo](https://github.com/Anusha-2024/Expense_Tracker/blob/main/ExpenseTracker.gif?raw=true)
+
+**Dashboard**
+
+![dashboard](https://github.com/Anusha-2024/Expense_Tracker/blob/main/dashboard.png?raw=true)
+
+**Managing Budget**
+
+![budget](https://github.com/Anusha-2024/Expense_Tracker/blob/main/budget.png?raw=true)
+
+---
+
+## 🛠️ Technologies Used
+
 - React with TypeScript
-- React Router for routing
-- Tailwind CSS for styling
-- Framer Motion for animations
-- React Hot Toast for notifications
-- Lucide React for icons
-- REST API for backend communication
-- Local storage for some data caching
+- React Router
+- Tailwind CSS
+- Framer Motion
+- React Hot Toast
+- Lucide React
+- REST API
+- Local Storage
 
-## Project Structure
-- `src/contexts/`: React context providers for authentication and notifications
-- `src/components/`: Reusable UI components and layout components
-- `src/pages/`: Application pages such as Dashboard, Budget, Transactions, Calendar, Profile, etc.
+---
+
+## 📂 Project Structure
+
+- `src/contexts/`: React context providers (Auth, Notification)
+- `src/components/`: Reusable UI and layout components
+- `src/pages/`: Main application pages (Dashboard, Budget, Profile, etc.)
 - `src/lib/`: API and storage utility functions
-- `src/App.tsx`: Main application component with routing setup
+- `src/App.tsx`: Main routing and context setup
 
-## Setup and Installation
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```
-   cd ExpenseTracker
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
-5. Open your browser and go to `http://localhost:3000`
+---
 
-## Usage
-- Register a new account or log in with existing credentials.
-- Use the dashboard to get an overview of your finances.
-- Add transactions and budgets to track your spending.
-- Use the calendar to view transactions by date.
-- Toggle dark mode from the navbar or profile settings.
-- Receive notifications for budget limits and low balances.
+## 🚀 Getting Started
 
-## Future Improvements
-- Support for recurring transactions and bills
-- Multi-currency support
-- Advanced reporting and export options
-- Cloud backup and multi-device sync
-- Enhanced accessibility features
+Clone the repository:
 
-## License
-This project is licensed under the MIT License.
+```bash
+git clone https://github.com/Anusha-2024/Expense_Tracker.git
 
-## Author
-Expense Tracker by Anusha
+```
+## Navigate to the project directory:
+```bash
+cd Expense_Tracker
+```
+## Install dependencies:
+```
+npm install
+```
+## Run the development server:
+```
+npm run dev
+```
+```
+Visit http://localhost:3000 to open the app in your browser.
+```
+## 🧪 Usage
+
+- Register a new account or log in  
+- Use the dashboard for financial overview  
+- Add transactions and budgets to track your spending  
+- View transactions on the calendar  
+- Toggle dark mode  
+- Receive notifications for low balance or budget alerts  
+
+---
+
+## 🔮 Future Improvements
+
+- Support for recurring transactions  
+- Multi-currency support  
+- Cloud sync  
+- Advanced analytics and reporting  
+- Accessibility improvements  
+
+---
+
+## 📩 Contact
+
+Created by **Anusha**  
+📧 Email: [krianusha09@gmail.com](mailto:krianusha09@gmail.com)  
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
